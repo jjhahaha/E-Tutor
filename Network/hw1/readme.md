@@ -8,6 +8,7 @@ fork
 >若有客戶連線 fork()出子行程
 >子行程讀寫瀏覽器要求
 >關掉父行程
+
 select
 >開啟 Socket
 >設定網路連線(TCP/IP 協定、port、對外 IP)
