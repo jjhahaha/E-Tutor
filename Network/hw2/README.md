@@ -52,3 +52,5 @@ https://www.bilibili.com/video/BV1Eb411v7iT/
 https://blog.csdn.net/weixin_39291964/article/details/102494495
 
 https://gist.github.com/nobugtodebug/6153009
+
+https://coderoad.ru/61309058/-x86_64-linux-gnu-Scrt1-o-%D0%B2-%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B8-_start-text-0x20-%D0%BD%D0%B5%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F-%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0-%D0%BD%D0%B0
