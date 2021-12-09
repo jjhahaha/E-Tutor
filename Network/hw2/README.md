@@ -45,8 +45,6 @@ client不停等著使用著的輸入和server傳來訊息。
 
 #### 參考
 
-https://www.youtube.com/watch?v=QVZcMx3jtG8&t=3070s
-
 https://www.bilibili.com/video/BV1Eb411v7iT/
 
 https://blog.csdn.net/weixin_39291964/article/details/102494495
