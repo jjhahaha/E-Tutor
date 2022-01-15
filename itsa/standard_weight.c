@@ -7,7 +7,6 @@ int main()
     int weight,gender=0;
     double c=0;
 
-
     while(scanf("%d%d",&weight,&gender)!=EOF)
     {
         if(gender==1)
